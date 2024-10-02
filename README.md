@@ -16,7 +16,7 @@ This is a collection of interactive 3D projects built using Three.js. Each proje
 ![screencapture-localhost-3000-2024-10-03-01_53_17](https://github.com/user-attachments/assets/8be09bec-6182-4282-aa9d-c4fcb3b93801)
 
 ## Click here to see All Projects
-[All Projects ](#)
+[All Projects ](https://gregarious-dango-db2756.netlify.app/)
 
 
 ## About the Projects
@@ -39,7 +39,7 @@ This is a collection of interactive 3D projects built using Three.js. Each proje
  [Click here to watch the Live demo](https://earth-demo.tiiny.site/) 
 
 #### Repository
-   [Click here for the repository link](#)
+   [Click here for the repository link](https://github.com/Riddhi-chavan/Earth-Threejs)
 
 
 
@@ -61,7 +61,7 @@ This is a collection of interactive 3D projects built using Three.js. Each proje
  [Click here to watch the Live demo](https://redo-demo.tiiny.site/) 
 
  #### Repository
-   [Click here for the repository link](#)
+   [Click here for the repository link](https://github.com/Riddhi-chavan/Tunnel-Threejs)
 
 ---
 
@@ -79,7 +79,7 @@ This is a collection of interactive 3D projects built using Three.js. Each proje
  [Click here to watch the Live demo](https://shape-demo.tiiny.site/) 
 
  #### Repository
-   [Click here for the repository link](#)
+   [Click here for the repository link](https://github.com/Riddhi-chavan/Grid-Sphere-threejs)
 
 ---
 
@@ -96,7 +96,7 @@ This is a collection of interactive 3D projects built using Three.js. Each proje
  [Click here to watch the Live demo](https://jelly-shape.tiiny.site/) 
 
 #### Repository
-   [Click here for the repository link](#)
+   [Click here for the repository link](https://github.com/Riddhi-chavan/Jelly-shape-threejs)
 
 
 
@@ -137,7 +137,7 @@ Ensure all dependencies such as Three.js and any external libraries (if applicab
 
 Email: riddhic164@gmail.com
 
-Project Link: [https://github.com/Riddhi-chavan/Three.js-Projects](#)
+Project Link: [https://github.com/Riddhi-chavan/Three.js-Projects](https://github.com/Riddhi-chavan/Three.js-Projects)
 
 ---
 **Thank you for viewing my project!**
